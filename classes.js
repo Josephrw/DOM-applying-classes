@@ -40,6 +40,6 @@ function three (){
 function makeVisible (){
 
   var invisible = document.getElementsByClassName('invisible')[0]
-
+  
   invisible.classList.add('visible')
 }
